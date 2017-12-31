@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SR_PythonServer.iml" filepath="$PROJECT_DIR$/.idea/SR_PythonServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpeakerRecognition.iml" filepath="$PROJECT_DIR$/.idea/SpeakerRecognition.iml" />
+    </modules>
+  </component>
+</project>

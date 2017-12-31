@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SR_JavaSecuritySys:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SR_JavaSecuritySys_jar</output-path>
+    <root id="archive" name="SR_JavaSecuritySys.jar">
+      <element id="module-output" name="SR_JavaSecuritySys" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SR Android Client</string>
+    <string name="title_activity_create_user">CreateUserActivity</string>
+</resources>

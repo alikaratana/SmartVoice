@@ -1,0 +1,44 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="Button_style">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+
+    <style name="Button_style.grey">
+        <item name="android:background">@drawable/button_grey</item>
+    </style>
+
+
+    <style name="Button_style.green">
+        <item name="android:background">@drawable/button_green</item>
+    </style>
+
+
+    <style name="Button_style.red">
+        <item name="android:background">@drawable/button_red</item>
+    </style>
+
+    <style name="Button_style.disabled">
+        <item name="android:background">@drawable/disabled_button</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>

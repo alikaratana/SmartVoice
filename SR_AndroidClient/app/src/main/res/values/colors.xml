@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#363636</color>
+    <color name="colorPrimaryDark">#0e0e0e</color>
+    <color name="colorAccent">#4b4b4b</color>
+
+    <color name="grey_default">#35ffffff</color>
+    <color name="grey_pressed">#35151515</color>
+    <color name="grey_focused">#35151515</color>
+
+    <color name="green_default">#352cdc00</color>
+    <color name="green_pressed">#35082900</color>
+    <color name="green_focused">#35082900</color>
+
+    <color name="red_default">#35dc0000</color>
+    <color name="red_pressed">#35510000</color>
+    <color name="red_focused">#35510000</color>
+
+    <color name="disabled">#ec595959</color>
+</resources>
